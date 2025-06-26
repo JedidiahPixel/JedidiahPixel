@@ -1,5 +1,5 @@
 Hey, I'm Jedidiah👋🏿
-I'm a second-year Software Engineering student with a passion for digital design,Creative technology(content creation) and faith-based story tellin.
+I'm a second-year Software Engineering student with a passion for digital design,Creative technology (content creation) and faith-based story telling.
 Currently learning Java, Principles of design and building creative community spaces online.
 
 What I'm Learning 🧠:
@@ -12,6 +12,8 @@ Projects I've worked on (working on) 💡:
 -Habit Tracker app
 -Questionner 
 -Creative Dev Projects (faith + tech)
+-Web Dev with the use of bootstrap studio
+-Data base management system with visual studio( using visual basic)
 
 Design + Creative work 🎨:
 I am a content creator across many platforms - I write, design, multi-media editing(audio-visual, audio, visual(photo)), 
