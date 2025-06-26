@@ -1,38 +1,60 @@
-Hey, I'm Jedidiah👋🏿
-I'm a second-year Software Engineering student with a passion for digital design,Creative technology (content creation) and faith-based story telling.
-Currently learning Java, Principles of design and building creative community spaces online.
+# 👋🏿 Hey, I'm Jedidiah
 
-What I'm Learning 🧠:
--Java, Python
--Design Principles
--UI/UX with Figma
--Git & Github
+I'm a second-year Software Engineering student with a passion for **digital design**, **creative technology** (content creation), and **faith-based storytelling**. I'm currently learning Java, UI/UX, and design principles while building creative community spaces online.
 
-Projects I've worked on (working on) 💡:
--Habit Tracker app:
-+ A simple habit tracker built with a focus on logic and interface flow
-+ Collaborated with team for code structure & logic planning  
--Questionner :
-+ Implemented GUI with Swing  
-+ Used Java I/O for file writing  
-+ Explored user interaction through dialog boxes 
--Creative Dev Projects (faith + tech)
--Web Dev with the use of bootstrap studio
--Data base management system with visual studio( using visual basic):
-+ Simple system following DBMS principles
-+ Sign-up and log-in features to acess database
-+ authentication features
+---
 
-Design + Creative work 🎨:
-I am a content creator across many platforms - I write, design, multi-media editing(audio-visual, audio, visual(photo)), 
-I produce content around personal development, faith, innovation and authenticity.
-+ TOOLS : Figma, Adobe Audition, Adobe Photoshop, Adobe Premiere Pro, Canva, Filmora Wondershare
+### 🧠 What I'm Learning
+- Java & Python
+- UI/UX Design (Figma)
+- Web Development with Bootstrap Studio
+- Git & GitHub
+- Design Principles & Visual Storytelling
 
-Lets connect 📌:
-email- nanujd07@gmail.com
-LINKS: https://linktr.ee/Theonlyperfectpixel 
+---
 
+### 💡 Projects I've Worked On
 
+#### 🗓️ Habit Tracker App
+- Simple habit tracking tool built with a focus on interface flow and user experience
+- Collaborated with team on logic planning, code structure, and UI wireframes
+
+#### ❓Questionner (Java App)
+- Java GUI application using `Swing` to collect user input
+- Implemented Java I/O to save data locally
+- Used `JOptionPane` for interactive dialog windows
+
+#### 🌐 Web Dev Projects
+- Created UI layouts and responsive pages using **Bootstrap Studio**
+
+#### 🗄️ DBMS Login System (Visual Basic)
+- Built a simple database-driven app with sign-up/login features
+- Implemented authentication and DB management principles in **Visual Studio**
+
+#### ⚡ Creative Dev Projects
+- Ongoing faith-based and innovation-focused content combining storytelling and design
+
+---
+
+### 🎨 Design + Creative Work
+
+I'm a multi-platform content creator — I write, design, and produce multimedia content (audio, video, photo) centered on **personal development, faith, innovation, and authenticity**.
+
+**Tools I Use:**
+- Figma  
+- Adobe Audition  
+- Adobe Photoshop  
+- Adobe Premiere Pro  
+- Canva  
+- Filmora Wondershare  
+
+---
+
+### 📌 Let's Connect
+📧 Email: nanujd07@gmail.com  
+🔗 All my links: [linktr.ee/Theonlyperfectpixel](https://linktr.ee/Theonlyperfectpixel)
+
+> “Building faith, creativity, and innovation — one project at a time.” ☁️🧠🎨
 
 <!---
 JedidiahPixel/JedidiahPixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
