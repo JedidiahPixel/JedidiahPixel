@@ -1,6 +1,6 @@
-Hey, I'm Jedidiah👋🏿
-I'm a second-year Software Engineering student with a passion for digital design,Creative technology (content creation) and faith-based story telling.
-Currently learning Java, Principles of design and building creative community spaces online.
++ Hey, I'm Jedidiah👋🏿
++ I'm a second-year Software Engineering student with a passion for digital design,Creative technology (content creation) and faith-based story telling.
++ Currently learning Java, Principles of design and building creative community spaces online.
 
 What I'm Learning 🧠:
 -Java, Python
